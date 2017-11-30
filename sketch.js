@@ -17,8 +17,8 @@ function draw() {
   text(word2, 38,90);
   text(word, 120,90);
   strokeWeight(3);
-  scale(1.5, 1.5);
-  line(400, 20, 340, 170);
+  scale(2, 2);
+  line(320, 90, 340, 170);
   line(340, 170, 410, 220);
 }
 
