@@ -1,6 +1,3 @@
-var words = [ "apple", "bear", "cat", "dog" ];
-var word = random(words);
-
 function setup() {
 	createCanvas(windowWidth, windowHeight);
 }
